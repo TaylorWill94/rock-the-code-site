@@ -33,6 +33,11 @@ button:hover {
   color: aqua;
 }
 
+.student-img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
 /* p {
   animation-duration: 3s;
   animation-name: slidein;
